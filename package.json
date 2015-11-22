@@ -1,0 +1,26 @@
+{
+  "name": "washie-server",
+  "version": "1.0.0",
+  "description": "Server for Washie API",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "body-parser": "^1.0.1",
+    "express": "^4.0.0",
+    "mongoose": "^4.2.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drizko/washie-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drizko/washie-server/issues"
+  },
+  "homepage": "https://github.com/drizko/washie-server#readme"
+}
